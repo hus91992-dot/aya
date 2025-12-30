@@ -74,7 +74,9 @@ html, body {
 img {
     display: block;
     margin: 5px auto;
+    
 }
 .hazem, .aya {
-    padding: 5px auto;
+    margin: 4px auto;
+
 } 
